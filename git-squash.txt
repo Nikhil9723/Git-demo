@@ -1,2 +1,3 @@
 git squash pracice
 git squash demo to clear the unnecessary commit history.
+git squash file updated.
